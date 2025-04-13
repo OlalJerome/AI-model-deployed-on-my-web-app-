@@ -1,4 +1,4 @@
-# 📬 Spam Email Detector App
+# 📬 Spam Email Detector App(https://amosdetective.streamlit.app/)
 
 This is a lightweight web application built with **Streamlit** that uses a trained **Naive Bayes model** and **TF-IDF vectorizer** to detect whether an email is 🚨 **spam** or ✅ **not spam**.
 
